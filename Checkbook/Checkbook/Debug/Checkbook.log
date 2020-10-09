@@ -1,0 +1,3 @@
+﻿  Checkbook.cpp
+d:\cp3\project files\checkbook\checkbook\checkbook.cpp(155): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Checkbook.vcxproj -> D:\CP3\Project Files\Checkbook\Debug\Checkbook.exe

@@ -1,0 +1,3 @@
+﻿  CompNum.cpp
+d:\cp3\project files\compnum\compnum\compnum.h(87): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CompNum.vcxproj -> D:\CP3\Project Files\CompNum\x64\Debug\CompNum.exe

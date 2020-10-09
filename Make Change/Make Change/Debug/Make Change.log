@@ -1,0 +1,16 @@
+﻿  Make Change.cpp
+d:\cp3\project files\make change\make change\make change.cpp(19): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\cp3\project files\make change\make change\make change.cpp(146): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(171): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(174): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(180): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(183): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(186): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(187): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(189): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(192): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\cp3\project files\make change\make change\make change.cpp(195): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Make Change.vcxproj -> D:\CP3\Project Files\Make Change\Debug\Make Change.exe

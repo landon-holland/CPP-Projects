@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  CompNumTester.cpp
+d:\cp3\project files\compnumtester\compnumtester\compnum.h(71): warning C4018: '<=': signed/unsigned mismatch
+  CompNumTester.vcxproj -> D:\CP3\Project Files\CompNumTester\Debug\CompNumTester.exe

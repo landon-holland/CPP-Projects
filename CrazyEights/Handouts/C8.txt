@@ -1,0 +1,29 @@
+Crazy Eights
+
+A card game similar to Uno using a standard 52 card deck where the player and dealer (Computer) are both dealt 7 cards at the beginning of game and the next card in deck is turned over and becomes the top card on the played pile. Each player takes turns discarding a single card from their hand that either matches the suit or value of the top card on the played pile if they cannot play they must draw a card and pass their turn. They may be able to play and eight as a wild card and change suit at any time. The object of game is to be the first to discard all of their cards
+
+"B"     
+
+- deck
+
+-two hands
+
+-played pile
+
+-play game
+
+-eights are wild
+
+-check for winner
+
+"A"
+
+-gimmicks
+
+     -draw until you play
+
+     -play more than one card at a time
+
+    -special cards (skip(J), draw one (Q), draw two(K))
+
+    -save and retrieve top ten

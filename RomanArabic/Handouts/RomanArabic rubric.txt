@@ -1,0 +1,7 @@
+RomanArabic Rubric
+
+B - Roman to Arabic (3999)
+
+A - Arabic to Roman (MMMCMXCIX)
+
+A++ - Vbar and Xbar (39999)

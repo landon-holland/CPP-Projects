@@ -1,0 +1,6 @@
+﻿  Electric.cpp
+d:\cp3\project files\electric\electric\electric.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\cp3\project files\electric\electric\electric.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\cp3\project files\electric\electric\electric.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\cp3\project files\electric\electric\electric.cpp(27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Electric.vcxproj -> D:\CP3\Project Files\Electric\Debug\Electric.exe

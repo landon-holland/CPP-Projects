@@ -1,0 +1,3 @@
+﻿  SnackBar.cpp
+d:\cp3\project files\snackbar\snackbar\snackbar.cpp(87): warning C4305: 'initializing': truncation from 'double' to 'float'
+  SnackBar.vcxproj -> D:\CP3\Project Files\SnackBar\Debug\SnackBar.exe
